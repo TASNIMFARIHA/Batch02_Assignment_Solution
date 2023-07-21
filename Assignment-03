@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BDVromon</title>
+    <link rel="shortcut icon" type="image/x-icon" href="logo.jpg">
+    <style>
+        
+        h1{
+            background-color: #023725;
+            color: #fff;
+        }
+        ul{
+            list-style: none;
+        }
+
+        li{
+            padding: 5px 20px; 
+        }
+
+        .box1 dt a{
+            color: black;
+        }
+
+        .box1{
+            background:lightgreen;
+        }
+         
+        .box1 a{
+            color: #fff;
+        }
+        #hill{
+            background-color:#023725;
+            color: #fff;
+        }
+        #b{
+            background-color: #4bd05c;
+            color: #fff;
+        }
+        #k{
+            background-color:#4bd05c;
+            color: #fff;
+        }
+        #r{
+            background-color:#4bd05c;
+            color: #fff;
+        }
+        #beach{
+            background-color: #023725;
+            color: #fff;
+        }
+        #c{
+            background-color: #4bd05c;
+            color: #fff;
+        }
+        #i{
+            background-color:#4bd05c;
+            color: #fff;
+        }
+        #s{
+            background-color:#4bd05c;
+            color: #fff;
+        }
+        #form{
+            background:#4bd05c;
+        }
+    </style>
+</head>
+<body>
+    <h1 align="center">Choose Your Favourite Travel Places</h1>
+    <ul>
+        <li class="box1"><a href="#hill">HILLS</a>
+            <dl>
+                <dt><a href="#b">Bandarban</a> </dt>
+                    <dd>It is a part of Chittagong division. This district is in South-Eastern part of Bangladesh. This is the only region where you can find out the high ranges of mountain in Bangladesh. Bandarban is a very famous area of Bangladesh.</dd>
+               
+                <dt><a href="#k">Khagrachori</a></dt> 
+                    <dd>Khargrachori is a part of the Chittagong Division. It is also known as Chengmi. Another name is Phalang Htaung on the Mong Circle. It also lies in the south-eastern part of Bangladesh.</dd>
+                
+                <dt><a href="#r">Rangamati </a></dt>
+                    <dd>Rangamati is a famous district for hills in Bangladesh. It lies in South-eastern part of Bangladesh. Rangamati  is also one of the biggest district of the Bangladesh.</dd>
+            </dl>
+           
+        </li>
+         <hr>
+         <div class="hill">
+            <h2 align="center" id="hill">HILLS</h2>
+            <img src="hill1.jpg" width="325px" height="300px" alt="">
+            <img src="hill2.jpg" width="325px" height="300px" alt="">
+            <img src="hill3.jpg" width="325px" height="300px" alt="">
+            <img src="hill4.jpg" width="325px" height="300px" alt="">
+        </div>
+        <div>
+            <h2 align="center" id="b">Bandarban</h2>
+            <center><img src="B.jpg" width="325px" height="300px" alt=""></center>
+        </div>
+         <div>
+            <h2 align="center" id="k">Khagrachori</h2>
+            <center><img src="k.jpg" width="325px" height="300px" alt=""></center>
+        </div>
+         <div>
+            <h2 align="center" id="r">Rangamati</h2>
+            <center><img src="r.jpg" width="325px" height="300px" alt=""></center>
+        </div>
+
+
+        <li class="box1"><a href="#beach">BEACH</a>
+             <dl>
+                <dt><a href="#c">Cox’s Bazar Sea Beach</a> </dt>
+                    <dd>Cox’s Bazar is a tourist city located in southeastern Bangladesh alongside Bay Of Bengal. It belongs to Cox’s Bazar district of Chittagong division. Cox’s Bazar is famous for its natural beauty. Here located the longest continuous natural sandy beach in the world, which is 120 km long from Cox’s Bazar to Bodormokam. The largest marine fishing port of Bangladesh and the submarine cable landing station are also developed in Cox’s Bazar.</dd>
+               
+                <dt><a href="#i">Inani Beach</a></dt> 
+                    <dd>Inani Sea Beach is 27 km away from Cox’s Bazar and 15 kilometers away from Himchari. At the time of the low tide, the coral appeared on the Inani Sea beach like the St. Martin’s Island. The sea is not so fierce like Cox’s Bazar here, and this quiet sea attracts tourists even more.</dd>
+                
+                <dt><a href="#s">Saint Martin Beach</a> </dt>
+                    <dd>Saint Martin Beach is the only coral island in Bangladesh, located south of the mainland of Bangladesh. Saint Martin, a small island of 17 square kilometers, 120 kilometers away from Cox’s Bazar district and 35 kilometers away from Teknaf. In the local language, St. Martin is also called Narikel Zinzira. </dd>
+                
+            </dl>
+        </li>
+         <hr>
+
+         <div class="beach">
+            <h2 align="center" id="beach">BEACH</h2>
+            <img src="beach1.jpg" width="325px" height="300px" alt="">
+            <img src="beach2.jpg" width="325px" height="300px" alt="">
+            <img src="beach3.jpg" width="325px" height="300px" alt="">
+            <img src="beach4.jpg" width="325px" height="300px" alt="">
+        </div>
+        <div>
+            <h2 align="center" id="c">Cox’s Bazar Sea Beach</h2>
+            <center><img src="c.jpg" width="325px" height="300px" alt=""></center>
+        </div>
+         <div>
+            <h2 align="center" id="i">Inani Beach</h2>
+            <center><img src="i.jpg" width="325px" height="300px" alt=""></center>
+        </div>
+         <div>
+            <h2 align="center" id="s">Saint Martin Beach</h2>
+            <center><img src="s.jpg" width="325px" height="300px" alt=""></center>
+        </div><br><br>
+
+        <li class="box1"><a href="#">Others</a>
+             <dl>
+                <dt><a href="#">Historic Places in Bangladesh</a> </dt>
+                    <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo in autem ipsam, officiis facere reprehenderit fugit! Temporibus vero adipisci, provident.</dd>
+               
+                <dt><a href="#">Out of country travel places</a></dt> 
+                    <dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo in autem ipsam, officiis facere reprehenderit fugit! Temporibus vero adipisci, provident.</dd>
+                
+            </dl>
+        </li>
+         <hr>
+    </ul>
+
+    <div align="center">
+     <form  action="#" method="get" target="_blank" id="form">
+      <fieldset>
+       <legend align="center" id="contact">Contact form</legend>
+        <label for="name">Name:</label>
+       <input type="text" placeholder="Enter your name" id="name" required><br><br>
+       <label for="">Email:</label>
+       <input type="email" placeholder="example@gmail.com"><br><br>
+       <label for="">Password:</label>
+       <input type="password" placeholder="Enter your password"><br><br>
+       <label for="">Contact No:</label>
+       <input type="text"><br><br>
+       <label for="">Gender:</label>
+       <input type="radio" name="gender">
+       <label for="">Male</label>
+       <input type="radio" name="gender">
+       <label for="">Female</label>
+       <input type="radio" name="gender">
+       <label for="">Others</label><br><br>
+       <label for="message">message:</label>
+       <input type="text" placeholder="Enter your message" id="message" required><br><br>
+       <button>Submit</button>
+      </fieldset>
+   </form>
+   </div>
+</body>
+</html>
+
+
+
+
+
+
